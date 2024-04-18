@@ -1,2 +1,5 @@
 Assignment:
 1. We are going to download all of Shas to be able to access anywhere in Shas.
+2. We will have a Shas Object, and in that object we will have instance variable of an array of masechtas
+3. There will be a trie in the shas and a trie in each individual masechta.
+4. Maybe we'll add some Rishonim as well, like Rashi and the Tosfosim.
